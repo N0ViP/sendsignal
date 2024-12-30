@@ -47,4 +47,4 @@ Here's a table listing all the signals in C (as defined in <signal.h>)
 | SIGIO         | 29        | I/O now possible.                            |
 | SIGPWR        | 30        | Power failure (System V).                    |
 | SIGSYS        | 31        | Bad system call.                             |
-
+____________________________________________________________________________
